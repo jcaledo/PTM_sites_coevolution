@@ -1,0 +1,479 @@
+#NEXUS
+[R-package APE, Mon Oct 10 12:03:18 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 233;
+	TAXLABELS
+		Leishmania braziliensis MHOM BR 75 M2904
+		Leishmania major
+		Leishmania mexicana MHOM GT 2001 U1103
+		Leishmania infantum JPCM5
+		Leishmania donovani
+		Trypanosoma brucei
+		Trypanosoma cruzi strain CL Brener
+		Trichomonas vaginalis G3
+		Trichomonas vaginalis
+		Tetrahymena thermophila
+		Paramecium tetraurelia strain d4 2
+		Dictyostelium purpureum
+		Dictyostelium discoideum
+		Perkinsus marinus ATCC 50983
+		Cryptosporidium muris RN66
+		Cryptosporidium parvum Iowa II
+		Cryptosporidium hominis TU502
+		Neospora caninum Liverpool
+		Toxoplasma gondii
+		Theileria annulata strain Ankara
+		Theileria parva strain Muguga
+		Plasmodium chabaudi
+		Plasmodium berghei
+		Plasmodium yoelii yoelii 17XNL
+		Plasmodium falciparum
+		Plasmodium vivax
+		Plasmodium knowlesi
+		Schizosaccharomyces japonicus yFS275
+		Schizosaccharomyces pombe
+		Yarrowia lipolytica
+		Tuber melanosporum
+		Phaeosphaeria nodorum
+		Leptosphaeria maculans
+		Pyrenophora teres f. teres 0 1
+		Pyrenophora tritici repentis Pt 1C BFP
+		Sclerotinia sclerotiorum
+		Botryotinia fuckeliana
+		Hypocrea virens
+		Hypocrea jecorina
+		Necteria haematococca
+		Zymoseptoria tritici
+		Verticillium albo atrum VaMs.102
+		Neurospora crassa
+		Sordaria macrospora k hell
+		Podospora anserina S mat
+		Thielavia terrestris NRRL 8126
+		Chaetomium globosum CBS 148.51
+		Myceliophthora thermophila ATCC 42464
+		Magnaporthe oryzae
+		Magnaporthe grisea
+		Magnaporthe poae
+		Gaeumannomyces graminis
+		Gibberella zeae PH 1
+		Gibberella zeae
+		Gibberella moniliformis
+		Fusarium oxysporum
+		Ajellomyces dermatitidis SLH14081
+		Paracoccidioides sp. lutzii Pb01
+		Ajellomyces capsulatus NAm1
+		Trichophyton rubrum CBS 118892
+		Arthroderma otae CBS 113480
+		Arthroderma gypseum CBS 118893
+		Arthroderma benhamiae CBS 112371
+		Trichophyton verrucosum HKI 0517
+		Uncinocarpus reesii 1704
+		Coccidioides posadasii C735 delta SOWgp
+		Coccidioides immitis RS
+		Penicillium marneffei ATCC 18224
+		Talaromyces stipitatus ATCC 10500
+		Aspergillus clavatus
+		Neosartorya fischeri
+		5085
+		Aspergillus niger
+		Emericella nidulans
+		Aspergillus terreus
+		Aspergillus flavus
+		Aspergillus oryzae
+		Komagataella pastoris GS115
+		Clavispora lusitaniae ATCC 42720
+		Pichia guilliermondii
+		Meyerozyma guilliermondii ATCC 6260
+		Lodderomyces elongisporus NRRL YB 4239
+		Candida dubliniensis CD36
+		Candida tropicalis MYA 3404
+		Lachancea thermotolerans
+		Zygosaccharomyces rouxii
+		Torulaspora delbrueckii
+		Naumovozyma dairenensis CBS 421
+		Naumovozyma castellii CBS 4309
+		Candida glabrata CBS 138
+		Saccharomyces cerevisiae
+		Vanderwaltozyma polyspora DSM 70294
+		Tetrapisispora phaffii CBS 4417
+		Eremothecium cymbalariae DBVPG_7215
+		Eremothecium gossypii
+		Kluyveromyces lactis NRRL Y 1140
+		Ustilago maydis
+		Malassezia globosa CBS 7966
+		Schizophyllum commune H4 8
+		Laccaria bicolor S238N H82
+		Phanerochaete chrysosporium
+		Coprinopsis cinerea okayama7_130
+		Puccinia graminis
+		Puccinia triticina
+		Cryptococcus gattii WM276
+		Cryptococcus neoformans var. neoformans JEC21
+		Cryptococcus neoformans var. neoformans B 3501A
+		Naegleria gruberi
+		Cyanidioschyzon merolae
+		Chlamydomonas reinhardtii
+		Ostreococcus lucimarinus CCE9901
+		Ostreococcus tauri
+		Selaginella moellendorffii
+		Musa acuminata
+		Solanum lycopersicum
+		Solanum tuberosum
+		Vitis vinifera
+		Brassica rapa
+		Arabidopsis lyrata
+		Arabidopsis thaliana
+		Populus trichocarpa
+		Glycine max
+		Oryza brachyantha
+		Oryza sativa Indica Group
+		Oryza glaberrima
+		Oryza sativa Japonica Group
+		Setaria italica
+		Sorghum bicolor
+		Zea mays
+		Hordeum vulgare
+		Brachypodium distachyon
+		Physcomitrella patens
+		Albugo laibachii
+		Pythium ultimum
+		Phytophthora sojae
+		Phytophthora infestans
+		Hyaloperonospora arabidopsidis
+		Phytophthora ramorum
+		Thalassiosira pseudonana
+		Phaeodactylum tricornutum
+		Monosiga brevicollis MX1
+		Trichoplax adhaerens
+		Amphimedon queenslandica
+		Schistosoma mansoni
+		Trichinella spiralis
+		Pristionchus pacificus
+		Caenorhabditis japonica
+		Caenorhabditis elegans
+		Caenorhabditis brenneri
+		Caenorhabditis briggsae
+		Caenorhabditis remanei
+		Nematostella vectensis
+		Ixodes scapularis
+		Drosophila yakuba
+		Drosophila melanogaster
+		Drosophila ananassae
+		Drosophila pseudoobscura
+		Drosophila willistoni
+		Drosophila virilis
+		Anopheles gambiae
+		Anopheles darlingi
+		Aedes aegypti
+		Culex quinquefasciatus
+		Pediculus humanus
+		Tribolium castaneum
+		Heliconius melpomene
+		Danaus plexippus
+		Bombyx mori
+		Nasonia vitripennis
+		Atta cephalotes
+		Apis mellifera
+		Daphnia pulex
+		Acyrthosiphon pisum
+		Branchiostoma floridae
+		Dasypus novemcinctus
+		Tursiops truncatus
+		Tupaia belangeri
+		Monodelphis domestica
+		Macropus eugenii
+		Sarcophilus harrisii
+		Anolis carolinensis
+		Pelodiscus sinensis
+		Danio rerio
+		Oreochromis niloticus
+		Gasterosteus aculeatus
+		Gadus morhua
+		Takifugu rubripes
+		Tetraodon nigroviridis
+		Oryzias latipes
+		Xiphophorus maculatus
+		Taeniopygia guttata
+		Meleagris gallopavo
+		Gallus gallus
+		Echinops telfairi
+		Loxodonta africana
+		Procavia capensis
+		Latimeria chalumnae
+		Ornithorhynchus anatinus
+		Myotis lucifugus
+		Pteropus vampyrus
+		Felis catus
+		Mustela putorius furo
+		Ailuropoda melanoleuca
+		Xenopus (Silurana) tropicalis
+		Petromyzon marinus
+		Cavia porcellus
+		Otolemur garnettii
+		Equus caballus
+		Microcebus murinus
+		Dipodomys ordii
+		Callithrix jacchus
+		Macaca mulatta
+		Gorilla gorilla
+		Homo sapiens
+		Pongo abelii
+		Pan troglodytes
+		Nomascus leucogenys
+		Bos taurus
+		Oryctolagus cuniculus
+		Ictidomys tridecemlineatus
+		Sus scrofa
+		Canis lupus familiaris
+		Mus musculus
+		Tarsius syrichta
+		Rattus norvegicus
+		Strongylocentrotus purpuratus
+		6085
+		Entamoeba histolytica
+		Entamoeba dispar SAW760
+		Giardia lamblia ATCC 50803
+		Encephalitozoon hellem ATCC 50504
+		Encephalitozoon intestinalis ATCC 50506
+		Encephalitozoon cuniculi GB M1
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Leishmania braziliensis MHOM BR 75 M2904,
+		2	Leishmania major,
+		3	Leishmania mexicana MHOM GT 2001 U1103,
+		4	Leishmania infantum JPCM5,
+		5	Leishmania donovani,
+		6	Trypanosoma brucei,
+		7	Trypanosoma cruzi strain CL Brener,
+		8	Trichomonas vaginalis G3,
+		9	Trichomonas vaginalis,
+		10	Tetrahymena thermophila,
+		11	Paramecium tetraurelia strain d4 2,
+		12	Dictyostelium purpureum,
+		13	Dictyostelium discoideum,
+		14	Perkinsus marinus ATCC 50983,
+		15	Cryptosporidium muris RN66,
+		16	Cryptosporidium parvum Iowa II,
+		17	Cryptosporidium hominis TU502,
+		18	Neospora caninum Liverpool,
+		19	Toxoplasma gondii,
+		20	Theileria annulata strain Ankara,
+		21	Theileria parva strain Muguga,
+		22	Plasmodium chabaudi,
+		23	Plasmodium berghei,
+		24	Plasmodium yoelii yoelii 17XNL,
+		25	Plasmodium falciparum,
+		26	Plasmodium vivax,
+		27	Plasmodium knowlesi,
+		28	Schizosaccharomyces japonicus yFS275,
+		29	Schizosaccharomyces pombe,
+		30	Yarrowia lipolytica,
+		31	Tuber melanosporum,
+		32	Phaeosphaeria nodorum,
+		33	Leptosphaeria maculans,
+		34	Pyrenophora teres f. teres 0 1,
+		35	Pyrenophora tritici repentis Pt 1C BFP,
+		36	Sclerotinia sclerotiorum,
+		37	Botryotinia fuckeliana,
+		38	Hypocrea virens,
+		39	Hypocrea jecorina,
+		40	Necteria haematococca,
+		41	Zymoseptoria tritici,
+		42	Verticillium albo atrum VaMs.102,
+		43	Neurospora crassa,
+		44	Sordaria macrospora k hell,
+		45	Podospora anserina S mat,
+		46	Thielavia terrestris NRRL 8126,
+		47	Chaetomium globosum CBS 148.51,
+		48	Myceliophthora thermophila ATCC 42464,
+		49	Magnaporthe oryzae,
+		50	Magnaporthe grisea,
+		51	Magnaporthe poae,
+		52	Gaeumannomyces graminis,
+		53	Gibberella zeae PH 1,
+		54	Gibberella zeae,
+		55	Gibberella moniliformis,
+		56	Fusarium oxysporum,
+		57	Ajellomyces dermatitidis SLH14081,
+		58	Paracoccidioides sp. lutzii Pb01,
+		59	Ajellomyces capsulatus NAm1,
+		60	Trichophyton rubrum CBS 118892,
+		61	Arthroderma otae CBS 113480,
+		62	Arthroderma gypseum CBS 118893,
+		63	Arthroderma benhamiae CBS 112371,
+		64	Trichophyton verrucosum HKI 0517,
+		65	Uncinocarpus reesii 1704,
+		66	Coccidioides posadasii C735 delta SOWgp,
+		67	Coccidioides immitis RS,
+		68	Penicillium marneffei ATCC 18224,
+		69	Talaromyces stipitatus ATCC 10500,
+		70	Aspergillus clavatus,
+		71	Neosartorya fischeri,
+		72	5085,
+		73	Aspergillus niger,
+		74	Emericella nidulans,
+		75	Aspergillus terreus,
+		76	Aspergillus flavus,
+		77	Aspergillus oryzae,
+		78	Komagataella pastoris GS115,
+		79	Clavispora lusitaniae ATCC 42720,
+		80	Pichia guilliermondii,
+		81	Meyerozyma guilliermondii ATCC 6260,
+		82	Lodderomyces elongisporus NRRL YB 4239,
+		83	Candida dubliniensis CD36,
+		84	Candida tropicalis MYA 3404,
+		85	Lachancea thermotolerans,
+		86	Zygosaccharomyces rouxii,
+		87	Torulaspora delbrueckii,
+		88	Naumovozyma dairenensis CBS 421,
+		89	Naumovozyma castellii CBS 4309,
+		90	Candida glabrata CBS 138,
+		91	Saccharomyces cerevisiae,
+		92	Vanderwaltozyma polyspora DSM 70294,
+		93	Tetrapisispora phaffii CBS 4417,
+		94	Eremothecium cymbalariae DBVPG_7215,
+		95	Eremothecium gossypii,
+		96	Kluyveromyces lactis NRRL Y 1140,
+		97	Ustilago maydis,
+		98	Malassezia globosa CBS 7966,
+		99	Schizophyllum commune H4 8,
+		100	Laccaria bicolor S238N H82,
+		101	Phanerochaete chrysosporium,
+		102	Coprinopsis cinerea okayama7_130,
+		103	Puccinia graminis,
+		104	Puccinia triticina,
+		105	Cryptococcus gattii WM276,
+		106	Cryptococcus neoformans var. neoformans JEC21,
+		107	Cryptococcus neoformans var. neoformans B 3501A,
+		108	Naegleria gruberi,
+		109	Cyanidioschyzon merolae,
+		110	Chlamydomonas reinhardtii,
+		111	Ostreococcus lucimarinus CCE9901,
+		112	Ostreococcus tauri,
+		113	Selaginella moellendorffii,
+		114	Musa acuminata,
+		115	Solanum lycopersicum,
+		116	Solanum tuberosum,
+		117	Vitis vinifera,
+		118	Brassica rapa,
+		119	Arabidopsis lyrata,
+		120	Arabidopsis thaliana,
+		121	Populus trichocarpa,
+		122	Glycine max,
+		123	Oryza brachyantha,
+		124	Oryza sativa Indica Group,
+		125	Oryza glaberrima,
+		126	Oryza sativa Japonica Group,
+		127	Setaria italica,
+		128	Sorghum bicolor,
+		129	Zea mays,
+		130	Hordeum vulgare,
+		131	Brachypodium distachyon,
+		132	Physcomitrella patens,
+		133	Albugo laibachii,
+		134	Pythium ultimum,
+		135	Phytophthora sojae,
+		136	Phytophthora infestans,
+		137	Hyaloperonospora arabidopsidis,
+		138	Phytophthora ramorum,
+		139	Thalassiosira pseudonana,
+		140	Phaeodactylum tricornutum,
+		141	Monosiga brevicollis MX1,
+		142	Trichoplax adhaerens,
+		143	Amphimedon queenslandica,
+		144	Schistosoma mansoni,
+		145	Trichinella spiralis,
+		146	Pristionchus pacificus,
+		147	Caenorhabditis japonica,
+		148	Caenorhabditis elegans,
+		149	Caenorhabditis brenneri,
+		150	Caenorhabditis briggsae,
+		151	Caenorhabditis remanei,
+		152	Nematostella vectensis,
+		153	Ixodes scapularis,
+		154	Drosophila yakuba,
+		155	Drosophila melanogaster,
+		156	Drosophila ananassae,
+		157	Drosophila pseudoobscura,
+		158	Drosophila willistoni,
+		159	Drosophila virilis,
+		160	Anopheles gambiae,
+		161	Anopheles darlingi,
+		162	Aedes aegypti,
+		163	Culex quinquefasciatus,
+		164	Pediculus humanus,
+		165	Tribolium castaneum,
+		166	Heliconius melpomene,
+		167	Danaus plexippus,
+		168	Bombyx mori,
+		169	Nasonia vitripennis,
+		170	Atta cephalotes,
+		171	Apis mellifera,
+		172	Daphnia pulex,
+		173	Acyrthosiphon pisum,
+		174	Branchiostoma floridae,
+		175	Dasypus novemcinctus,
+		176	Tursiops truncatus,
+		177	Tupaia belangeri,
+		178	Monodelphis domestica,
+		179	Macropus eugenii,
+		180	Sarcophilus harrisii,
+		181	Anolis carolinensis,
+		182	Pelodiscus sinensis,
+		183	Danio rerio,
+		184	Oreochromis niloticus,
+		185	Gasterosteus aculeatus,
+		186	Gadus morhua,
+		187	Takifugu rubripes,
+		188	Tetraodon nigroviridis,
+		189	Oryzias latipes,
+		190	Xiphophorus maculatus,
+		191	Taeniopygia guttata,
+		192	Meleagris gallopavo,
+		193	Gallus gallus,
+		194	Echinops telfairi,
+		195	Loxodonta africana,
+		196	Procavia capensis,
+		197	Latimeria chalumnae,
+		198	Ornithorhynchus anatinus,
+		199	Myotis lucifugus,
+		200	Pteropus vampyrus,
+		201	Felis catus,
+		202	Mustela putorius furo,
+		203	Ailuropoda melanoleuca,
+		204	Xenopus (Silurana) tropicalis,
+		205	Petromyzon marinus,
+		206	Cavia porcellus,
+		207	Otolemur garnettii,
+		208	Equus caballus,
+		209	Microcebus murinus,
+		210	Dipodomys ordii,
+		211	Callithrix jacchus,
+		212	Macaca mulatta,
+		213	Gorilla gorilla,
+		214	Homo sapiens,
+		215	Pongo abelii,
+		216	Pan troglodytes,
+		217	Nomascus leucogenys,
+		218	Bos taurus,
+		219	Oryctolagus cuniculus,
+		220	Ictidomys tridecemlineatus,
+		221	Sus scrofa,
+		222	Canis lupus familiaris,
+		223	Mus musculus,
+		224	Tarsius syrichta,
+		225	Rattus norvegicus,
+		226	Strongylocentrotus purpuratus,
+		227	6085,
+		228	Entamoeba histolytica,
+		229	Entamoeba dispar SAW760,
+		230	Giardia lamblia ATCC 50803,
+		231	Encephalitozoon hellem ATCC 50504,
+		232	Encephalitozoon intestinalis ATCC 50506,
+		233	Encephalitozoon cuniculi GB M1
+	;
+	TREE * UNTITLED = [&U] (((1:4.5,((2:2,3:3)0.992546:1,(4:1,5:0)0:0)0.997751:6.5)0.99985:51.5,(6:28,7:36)0.99985:45.5)0.99985:102.5,(8:0,9:0)0.99985:126.5,((228:3,229:2)0.99985:100,(((12:15,13:23)0.99985:90,((14:103.5,((15:40,(16:0,17:0)0.99985:23)0.99985:62,((20:5.5,21:7.5)0.99985:70,((18:6.5,19:4.5)0.99985:46.5,((22:2,(23:1,24:3)0.934035:3)0.99985:16,(25:18.5,(26:3,27:3)0.99985:21.5)0.651194:12)0.99985:32.5)0.941304:27)0.99985:50)0.99985:50.5)0.99985:57,(((((28:15.5,29:13.5)0.99985:34.5,(30:59.5,((31:24,(((32:8.5,(33:7,(34:2,35:0)0.732794:1)0.988623:5.5)0.99985:20.5,((36:4.5,37:0.5)0.99985:16.5,((40:10.5,((38:4,39:3)0.99985:13.5,((41:13.5,42:14.5)0.99985:12,(((46:8,(47:10.5,48:9.5)0.819199:3)0.99985:5.5,(45:6.5,(43:0.5,44:2.5)0.99985:8.5)0.990889:1.5)0.99985:11,((49:0,50:1)0.99985:10,(51:0,52:3)0.993759:6)0.99985:16)0.983237:4)0:8.5)0.153531:5.5)0.864377:4,((53:0,54:0)0.99985:23.5,(55:0,56:0)0.99985:22.5)0.974357:7)0.99985:12.5)0.99985:15.5)0.705895:13,(((57:4,(58:12,59:4)0.88553:2)0.99985:16,((60:0.5,((61:1.5,62:0.5)0.9856:2,(63:11.5,64:7.5)0:0)0:0.5)0.99985:23.5,(65:5,(66:0,67:0)0.99985:7)0.99985:14.5)0.99985:15)0.956686:11.5,((68:4.5,69:2.5)0.99985:15.5,((70:8,(74:10.5,(73:8,(75:7.5,(76:0,77:0)0.99985:10.5)0.977801:6)0.884582:4.5)0.998059:10)0.768926:4.5,(71:0,72:2)0.967819:6.5)0.99985:21.5)0.99985:11.5)0.99985:12)0.963278:16)0.99985:34.5,(78:29.5,((79:10.5,((80:0,81:0)0.99985:33,(82:16,(83:24,84:19)0.839958:9)0.99985:14)0.99985:10.5)0.99985:18,(85:14.5,((94:8.5,95:4.5)0.99985:12.5,((93:21,(92:9.5,((86:15,87:12)0.99985:5.5,((88:11,89:14)0.99985:12.5,(90:14.5,91:12.5)0.896387:3.5)0.99985:6.5)0.446922:9.5)0.97938:10)0.99985:15,96:29)0.856914:4.5)0.870195:10.5)0.99985:25)0.163188:17.5)0.99985:36.5)0.680496:19.5)0.781056:26.5)0.999004:23.5,((97:38.5,98:35.5)0.99985:39,((99:26,(100:19,(101:23.5,102:14.5)0.993896:8)0.994116:13)0.99985:39,((103:5.5,104:43.5)0.99985:49,(105:3.5,(106:0,107:0)0.861435:2.5)0.99985:53)0.947476:26)0.983089:19)0.99985:19.5)0.99985:41,(108:85,(109:98.5,(110:39,((111:26.5,112:26.5)0.99985:72,(113:32,(((114:17.5,(((115:1,116:2)0.99985:28,117:20)0.993171:12,(((118:7.5,(119:0,120:6)0.99985:7.5)0.99985:18,121:25)0.942979:13.5,122:9.5)0.852534:5)0.99985:9.5)0.964395:25,((123:4,(124:1,(125:0,126:0)0:0)0.99985:3)0.663644:1.5,((127:2,(128:3.5,129:4.5)0.99985:6)0.99985:9,(130:4,131:12)0.99985:15)0.994965:7.5)0.99985:40)0.99985:24,132:59)0.994392:21)0.99985:31)0.998108:35)0.99985:33.5)0.988989:25)0.912731:37)0.823257:33,((((135:4,(136:4,(137:15,138:4)0.99985:4)0.877624:1)0.99985:18.5,(134:19,133:37)0.631897:7.5)0.99985:50,(139:37,140:37)0.99985:41)0.99985:40.5,(141:75.5,(142:52.5,(((153:43.5,(164:28,(((((154:1,155:10)0.99985:7,(156:7,157:5)0.397729:2)0.944843:4,(158:5.5,159:4.5)0.854359:6)0.99985:51.5,((160:14.5,161:11.5)0.99985:18.5,(162:13,163:18)0.99985:22.5)0.99985:24.5)0.984085:27,(165:22,((166:3,(167:4,168:18)0.459669:5)0.99985:28,((169:10,(170:1,171:0)0.211013:17)0.99985:16,(172:45.5,173:32.5)0.99985:24)0.969204:8)0.994461:12)0.779038:20)0.998406:16)0.99985:34.5)0.935256:23,((174:40.5,((175:1,176:0)0:0,((177:5,(((178:0,(179:16,180:0)0:0)0.992318:1,(181:4,(182:0,((183:3,((184:0,(185:11,(186:3,(187:5.5,188:1.5)0.99985:8)0.897114:1)0.897522:1)0.993129:1,(189:0.5,190:3.5)0.993413:1)0.99985:3)0.99985:7,(191:0,(192:0,193:0)0.99985:1)0.987696:1)0.943711:1)0.99985:2)0.98389:1)0.998166:1,((194:2,(195:1,196:1)0:0)0.99985:2,(197:14,198:1)0.761052:1)0:1)0:0)0:2,(199:13,((200:6,(201:0,(202:0,(203:26.5,(204:41.5,205:34.5)0.99985:22.5)0.99985:35)0:0)0.99985:1)0:0,(206:0,((207:0,(208:1,((209:0,210:0)0:0,(211:0,(212:0,(213:0,(214:0,(215:0,(216:0,217:0)0:0)0:0)0:0)0:0)0.99915:1)0.99985:1)0:1)0:0)0:0,(218:0,(219:0,(220:0,(221:0,(222:0,(223:0,(224:1,225:0)0:0)0:0)0:0)0:0)0:0)0:0)0:0)0:0)0:0)0:0)0.987583:1)0.935959:1)0.99985:37.5)0.99718:29,(226:57,227:42)0.970955:23)0.994188:21)0.720254:22,(152:42.5,(143:59,(144:68,(145:53.5,(146:41,(148:15,(147:9.5,(149:4,(150:10,151:7)0.99985:12)0.99985:7.5)0.982738:6)0.99985:39)0.99985:45.5)0.99985:40)0.841356:35)0.988722:36.5)0.962226:23)0.933188:23.5)0.99985:34.5)0.99985:46.5)0.520065:21)0.99985:33)0.996624:41)0.696964:40,((10:69,11:101)0.99985:63.5,(230:113.5,(232:8.5,(231:12,233:12)0.971219:10.5)0.99985:90.5)0.55018:87.5)0.994705:59)0.990463:48)0.825872:72)0.757852;
+END;
