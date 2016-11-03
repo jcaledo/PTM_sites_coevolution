@@ -1,0 +1,479 @@
+#NEXUS
+[R-package APE, Mon Oct 10 11:46:55 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 233;
+	TAXLABELS
+		Homo sapiens
+		Giardia lamblia ATCC 50803
+		Arabidopsis lyrata
+		Brassica rapa
+		Trichomonas vaginalis G3
+		Trichomonas vaginalis
+		Encephalitozoon intestinalis ATCC 50506
+		Encephalitozoon hellem ATCC 50504
+		Encephalitozoon cuniculi GB M1
+		Entamoeba histolytica
+		Entamoeba dispar SAW760
+		Paramecium tetraurelia strain d4 2
+		Tetrahymena thermophila
+		Leishmania braziliensis MHOM BR 75 M2904
+		Leishmania major
+		Leishmania mexicana MHOM GT 2001 U1103
+		Leishmania infantum JPCM5
+		Leishmania donovani
+		Trypanosoma brucei
+		Trypanosoma cruzi strain CL Brener
+		Cryptosporidium muris RN66
+		Cryptosporidium parvum Iowa II
+		Cryptosporidium hominis TU502
+		Theileria annulata strain Ankara
+		Theileria parva strain Muguga
+		Neospora caninum Liverpool
+		Toxoplasma gondii
+		Plasmodium falciparum
+		Plasmodium chabaudi
+		Plasmodium berghei
+		Plasmodium yoelii yoelii 17XNL
+		Plasmodium vivax
+		Plasmodium knowlesi
+		Perkinsus marinus ATCC 50983
+		Dictyostelium purpureum
+		Dictyostelium discoideum
+		Naegleria gruberi
+		Cyanidioschyzon merolae
+		Ostreococcus lucimarinus CCE9901
+		Ostreococcus tauri
+		Chlamydomonas reinhardtii
+		Physcomitrella patens
+		Selaginella moellendorffii
+		Setaria italica
+		Oryza brachyantha
+		Oryza glaberrima
+		Oryza sativa Indica Group
+		Oryza sativa Japonica Group
+		Hordeum vulgare
+		Brachypodium distachyon
+		Zea mays
+		Sorghum bicolor
+		Arabidopsis thaliana
+		Populus trichocarpa
+		Solanum lycopersicum
+		Solanum tuberosum
+		Glycine max
+		Vitis vinifera
+		Musa acuminata
+		Thalassiosira pseudonana
+		Phaeodactylum tricornutum
+		Schistosoma mansoni
+		Pristionchus pacificus
+		Caenorhabditis elegans
+		Caenorhabditis briggsae
+		Caenorhabditis remanei
+		Caenorhabditis japonica
+		Caenorhabditis brenneri
+		Monosiga brevicollis MX1
+		Albugo laibachii
+		Pythium ultimum
+		Hyaloperonospora arabidopsidis
+		Phytophthora ramorum
+		Phytophthora infestans
+		Phytophthora sojae
+		Amphimedon queenslandica
+		Yarrowia lipolytica
+		Trichinella spiralis
+		Ixodes scapularis
+		Apis mellifera
+		Daphnia pulex
+		Drosophila yakuba
+		Drosophila melanogaster
+		Drosophila ananassae
+		Drosophila pseudoobscura
+		Drosophila willistoni
+		Drosophila virilis
+		Anopheles gambiae
+		Anopheles darlingi
+		Aedes aegypti
+		Culex quinquefasciatus
+		Acyrthosiphon pisum
+		Pediculus humanus
+		Bombyx mori
+		Danaus plexippus
+		Heliconius melpomene
+		Tribolium castaneum
+		Nasonia vitripennis
+		Atta cephalotes
+		Strongylocentrotus purpuratus
+		6085
+		Tupaia belangeri
+		Trichoplax adhaerens
+		Branchiostoma floridae
+		Dasypus novemcinctus
+		Nematostella vectensis
+		Dipodomys ordii
+		Microcebus murinus
+		Procavia capensis
+		Macropus eugenii
+		Xenopus (Silurana) tropicalis
+		Tursiops truncatus
+		Petromyzon marinus
+		Ailuropoda melanoleuca
+		Latimeria chalumnae
+		Myotis lucifugus
+		Gasterosteus aculeatus
+		Pteropus vampyrus
+		Anolis carolinensis
+		Pan troglodytes
+		Nomascus leucogenys
+		Pongo abelii
+		Gorilla gorilla
+		Macaca mulatta
+		Callithrix jacchus
+		Tarsius syrichta
+		Equus caballus
+		Felis catus
+		Mustela putorius furo
+		Rattus norvegicus
+		Mus musculus
+		Canis lupus familiaris
+		Cavia porcellus
+		Sus scrofa
+		Otolemur garnettii
+		Ictidomys tridecemlineatus
+		Oryctolagus cuniculus
+		Bos taurus
+		Pelodiscus sinensis
+		Taeniopygia guttata
+		Meleagris gallopavo
+		Gallus gallus
+		Sarcophilus harrisii
+		Monodelphis domestica
+		Ornithorhynchus anatinus
+		Echinops telfairi
+		Loxodonta africana
+		Takifugu rubripes
+		Tetraodon nigroviridis
+		Danio rerio
+		Gadus morhua
+		Xiphophorus maculatus
+		Oreochromis niloticus
+		Oryzias latipes
+		Cryptococcus neoformans var. neoformans JEC21
+		Cryptococcus neoformans var. neoformans B 3501A
+		Cryptococcus gattii WM276
+		Ustilago maydis
+		Malassezia globosa CBS 7966
+		Puccinia graminis
+		Puccinia triticina
+		Phaeosphaeria nodorum
+		Leptosphaeria maculans
+		Pyrenophora teres f. teres 0 1
+		Pyrenophora tritici repentis Pt 1C BFP
+		Sclerotinia sclerotiorum
+		Botryotinia fuckeliana
+		Zymoseptoria tritici
+		Verticillium albo atrum VaMs.102
+		Gibberella zeae PH 1
+		Gibberella zeae
+		Gibberella moniliformis
+		Fusarium oxysporum
+		Necteria haematococca
+		Hypocrea virens
+		Hypocrea jecorina
+		Magnaporthe oryzae
+		Magnaporthe grisea
+		Magnaporthe poae
+		Gaeumannomyces graminis
+		Chaetomium globosum CBS 148.51
+		Podospora anserina S mat
+		Neurospora crassa
+		Sordaria macrospora k hell
+		Myceliophthora thermophila ATCC 42464
+		Thielavia terrestris NRRL 8126
+		Tuber melanosporum
+		Talaromyces stipitatus ATCC 10500
+		Penicillium marneffei ATCC 18224
+		Aspergillus niger
+		Aspergillus clavatus
+		Neosartorya fischeri
+		5085
+		Emericella nidulans
+		Aspergillus terreus
+		Aspergillus flavus
+		Aspergillus oryzae
+		Paracoccidioides sp. lutzii Pb01
+		Ajellomyces capsulatus NAm1
+		Ajellomyces dermatitidis SLH14081
+		Arthroderma benhamiae CBS 112371
+		Trichophyton verrucosum HKI 0517
+		Trichophyton rubrum CBS 118892
+		Arthroderma otae CBS 113480
+		Arthroderma gypseum CBS 118893
+		Coccidioides posadasii C735 delta SOWgp
+		Coccidioides immitis RS
+		Uncinocarpus reesii 1704
+		Pichia guilliermondii
+		Meyerozyma guilliermondii ATCC 6260
+		Clavispora lusitaniae ATCC 42720
+		Candida dubliniensis CD36
+		Lodderomyces elongisporus NRRL YB 4239
+		Candida tropicalis MYA 3404
+		Komagataella pastoris GS115
+		Naumovozyma castellii CBS 4309
+		Naumovozyma dairenensis CBS 421
+		Tetrapisispora phaffii CBS 4417
+		Zygosaccharomyces rouxii
+		Vanderwaltozyma polyspora DSM 70294
+		Torulaspora delbrueckii
+		Candida glabrata CBS 138
+		Saccharomyces cerevisiae
+		Kluyveromyces lactis NRRL Y 1140
+		Lachancea thermotolerans
+		Eremothecium cymbalariae DBVPG_7215
+		Eremothecium gossypii
+		Schizosaccharomyces japonicus yFS275
+		Schizosaccharomyces pombe
+		Schizophyllum commune H4 8
+		Phanerochaete chrysosporium
+		Laccaria bicolor S238N H82
+		Coprinopsis cinerea okayama7_130
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Homo sapiens,
+		2	Giardia lamblia ATCC 50803,
+		3	Arabidopsis lyrata,
+		4	Brassica rapa,
+		5	Trichomonas vaginalis G3,
+		6	Trichomonas vaginalis,
+		7	Encephalitozoon intestinalis ATCC 50506,
+		8	Encephalitozoon hellem ATCC 50504,
+		9	Encephalitozoon cuniculi GB M1,
+		10	Entamoeba histolytica,
+		11	Entamoeba dispar SAW760,
+		12	Paramecium tetraurelia strain d4 2,
+		13	Tetrahymena thermophila,
+		14	Leishmania braziliensis MHOM BR 75 M2904,
+		15	Leishmania major,
+		16	Leishmania mexicana MHOM GT 2001 U1103,
+		17	Leishmania infantum JPCM5,
+		18	Leishmania donovani,
+		19	Trypanosoma brucei,
+		20	Trypanosoma cruzi strain CL Brener,
+		21	Cryptosporidium muris RN66,
+		22	Cryptosporidium parvum Iowa II,
+		23	Cryptosporidium hominis TU502,
+		24	Theileria annulata strain Ankara,
+		25	Theileria parva strain Muguga,
+		26	Neospora caninum Liverpool,
+		27	Toxoplasma gondii,
+		28	Plasmodium falciparum,
+		29	Plasmodium chabaudi,
+		30	Plasmodium berghei,
+		31	Plasmodium yoelii yoelii 17XNL,
+		32	Plasmodium vivax,
+		33	Plasmodium knowlesi,
+		34	Perkinsus marinus ATCC 50983,
+		35	Dictyostelium purpureum,
+		36	Dictyostelium discoideum,
+		37	Naegleria gruberi,
+		38	Cyanidioschyzon merolae,
+		39	Ostreococcus lucimarinus CCE9901,
+		40	Ostreococcus tauri,
+		41	Chlamydomonas reinhardtii,
+		42	Physcomitrella patens,
+		43	Selaginella moellendorffii,
+		44	Setaria italica,
+		45	Oryza brachyantha,
+		46	Oryza glaberrima,
+		47	Oryza sativa Indica Group,
+		48	Oryza sativa Japonica Group,
+		49	Hordeum vulgare,
+		50	Brachypodium distachyon,
+		51	Zea mays,
+		52	Sorghum bicolor,
+		53	Arabidopsis thaliana,
+		54	Populus trichocarpa,
+		55	Solanum lycopersicum,
+		56	Solanum tuberosum,
+		57	Glycine max,
+		58	Vitis vinifera,
+		59	Musa acuminata,
+		60	Thalassiosira pseudonana,
+		61	Phaeodactylum tricornutum,
+		62	Schistosoma mansoni,
+		63	Pristionchus pacificus,
+		64	Caenorhabditis elegans,
+		65	Caenorhabditis briggsae,
+		66	Caenorhabditis remanei,
+		67	Caenorhabditis japonica,
+		68	Caenorhabditis brenneri,
+		69	Monosiga brevicollis MX1,
+		70	Albugo laibachii,
+		71	Pythium ultimum,
+		72	Hyaloperonospora arabidopsidis,
+		73	Phytophthora ramorum,
+		74	Phytophthora infestans,
+		75	Phytophthora sojae,
+		76	Amphimedon queenslandica,
+		77	Yarrowia lipolytica,
+		78	Trichinella spiralis,
+		79	Ixodes scapularis,
+		80	Apis mellifera,
+		81	Daphnia pulex,
+		82	Drosophila yakuba,
+		83	Drosophila melanogaster,
+		84	Drosophila ananassae,
+		85	Drosophila pseudoobscura,
+		86	Drosophila willistoni,
+		87	Drosophila virilis,
+		88	Anopheles gambiae,
+		89	Anopheles darlingi,
+		90	Aedes aegypti,
+		91	Culex quinquefasciatus,
+		92	Acyrthosiphon pisum,
+		93	Pediculus humanus,
+		94	Bombyx mori,
+		95	Danaus plexippus,
+		96	Heliconius melpomene,
+		97	Tribolium castaneum,
+		98	Nasonia vitripennis,
+		99	Atta cephalotes,
+		100	Strongylocentrotus purpuratus,
+		101	6085,
+		102	Tupaia belangeri,
+		103	Trichoplax adhaerens,
+		104	Branchiostoma floridae,
+		105	Dasypus novemcinctus,
+		106	Nematostella vectensis,
+		107	Dipodomys ordii,
+		108	Microcebus murinus,
+		109	Procavia capensis,
+		110	Macropus eugenii,
+		111	Xenopus (Silurana) tropicalis,
+		112	Tursiops truncatus,
+		113	Petromyzon marinus,
+		114	Ailuropoda melanoleuca,
+		115	Latimeria chalumnae,
+		116	Myotis lucifugus,
+		117	Gasterosteus aculeatus,
+		118	Pteropus vampyrus,
+		119	Anolis carolinensis,
+		120	Pan troglodytes,
+		121	Nomascus leucogenys,
+		122	Pongo abelii,
+		123	Gorilla gorilla,
+		124	Macaca mulatta,
+		125	Callithrix jacchus,
+		126	Tarsius syrichta,
+		127	Equus caballus,
+		128	Felis catus,
+		129	Mustela putorius furo,
+		130	Rattus norvegicus,
+		131	Mus musculus,
+		132	Canis lupus familiaris,
+		133	Cavia porcellus,
+		134	Sus scrofa,
+		135	Otolemur garnettii,
+		136	Ictidomys tridecemlineatus,
+		137	Oryctolagus cuniculus,
+		138	Bos taurus,
+		139	Pelodiscus sinensis,
+		140	Taeniopygia guttata,
+		141	Meleagris gallopavo,
+		142	Gallus gallus,
+		143	Sarcophilus harrisii,
+		144	Monodelphis domestica,
+		145	Ornithorhynchus anatinus,
+		146	Echinops telfairi,
+		147	Loxodonta africana,
+		148	Takifugu rubripes,
+		149	Tetraodon nigroviridis,
+		150	Danio rerio,
+		151	Gadus morhua,
+		152	Xiphophorus maculatus,
+		153	Oreochromis niloticus,
+		154	Oryzias latipes,
+		155	Cryptococcus neoformans var. neoformans JEC21,
+		156	Cryptococcus neoformans var. neoformans B 3501A,
+		157	Cryptococcus gattii WM276,
+		158	Ustilago maydis,
+		159	Malassezia globosa CBS 7966,
+		160	Puccinia graminis,
+		161	Puccinia triticina,
+		162	Phaeosphaeria nodorum,
+		163	Leptosphaeria maculans,
+		164	Pyrenophora teres f. teres 0 1,
+		165	Pyrenophora tritici repentis Pt 1C BFP,
+		166	Sclerotinia sclerotiorum,
+		167	Botryotinia fuckeliana,
+		168	Zymoseptoria tritici,
+		169	Verticillium albo atrum VaMs.102,
+		170	Gibberella zeae PH 1,
+		171	Gibberella zeae,
+		172	Gibberella moniliformis,
+		173	Fusarium oxysporum,
+		174	Necteria haematococca,
+		175	Hypocrea virens,
+		176	Hypocrea jecorina,
+		177	Magnaporthe oryzae,
+		178	Magnaporthe grisea,
+		179	Magnaporthe poae,
+		180	Gaeumannomyces graminis,
+		181	Chaetomium globosum CBS 148.51,
+		182	Podospora anserina S mat,
+		183	Neurospora crassa,
+		184	Sordaria macrospora k hell,
+		185	Myceliophthora thermophila ATCC 42464,
+		186	Thielavia terrestris NRRL 8126,
+		187	Tuber melanosporum,
+		188	Talaromyces stipitatus ATCC 10500,
+		189	Penicillium marneffei ATCC 18224,
+		190	Aspergillus niger,
+		191	Aspergillus clavatus,
+		192	Neosartorya fischeri,
+		193	5085,
+		194	Emericella nidulans,
+		195	Aspergillus terreus,
+		196	Aspergillus flavus,
+		197	Aspergillus oryzae,
+		198	Paracoccidioides sp. lutzii Pb01,
+		199	Ajellomyces capsulatus NAm1,
+		200	Ajellomyces dermatitidis SLH14081,
+		201	Arthroderma benhamiae CBS 112371,
+		202	Trichophyton verrucosum HKI 0517,
+		203	Trichophyton rubrum CBS 118892,
+		204	Arthroderma otae CBS 113480,
+		205	Arthroderma gypseum CBS 118893,
+		206	Coccidioides posadasii C735 delta SOWgp,
+		207	Coccidioides immitis RS,
+		208	Uncinocarpus reesii 1704,
+		209	Pichia guilliermondii,
+		210	Meyerozyma guilliermondii ATCC 6260,
+		211	Clavispora lusitaniae ATCC 42720,
+		212	Candida dubliniensis CD36,
+		213	Lodderomyces elongisporus NRRL YB 4239,
+		214	Candida tropicalis MYA 3404,
+		215	Komagataella pastoris GS115,
+		216	Naumovozyma castellii CBS 4309,
+		217	Naumovozyma dairenensis CBS 421,
+		218	Tetrapisispora phaffii CBS 4417,
+		219	Zygosaccharomyces rouxii,
+		220	Vanderwaltozyma polyspora DSM 70294,
+		221	Torulaspora delbrueckii,
+		222	Candida glabrata CBS 138,
+		223	Saccharomyces cerevisiae,
+		224	Kluyveromyces lactis NRRL Y 1140,
+		225	Lachancea thermotolerans,
+		226	Eremothecium cymbalariae DBVPG_7215,
+		227	Eremothecium gossypii,
+		228	Schizosaccharomyces japonicus yFS275,
+		229	Schizosaccharomyces pombe,
+		230	Schizophyllum commune H4 8,
+		231	Phanerochaete chrysosporium,
+		232	Laccaria bicolor S238N H82,
+		233	Coprinopsis cinerea okayama7_130
+	;
+	TREE * UNTITLED = [&U] (138:1e-08,((((105:1e-08,116:0.02883996263):0.02589268111,130:1e-08):0.0001656150244,131:1e-08):6.883115826e-05,134:1e-08):3.771956444e-05,(((((108:1e-08,112:0.006179340876):0.0009339148038,((((((120:0,121:-0):3.469446952e-18,1:1e-08):2.413528314e-18,122:1e-08):2.523234147e-18,123:1e-08):2.643388154e-18,124:1e-08):0.003441069821,125:0.0001496535741):0.006135927032):0.0008404962169,137:1e-08):1.408641201e-05,(((107:1e-08,118:0.02047066137):0.001695359385,132:1e-08):5.757554953e-05,135:1e-08):3.601868782e-05):1.015971457e-05,((((((128:0,129:-0):0.0009820358966,((((((110:0.07699365452,143:1e-08):0.00240719628,144:1e-08):0.006663084931,119:0.01651719709):0.002569802555,145:0.004400830068):0.001734012427,(109:0.007073092717,147:0.001682445876):0.008322031403):0.001742963604,(((((((((153:0.00235605148,154:0.005035025743):0.003057023119,152:0.009653828571):0.002120993944,151:0.0154155298):0.00129150808,((148:0.02003214153,149:0.00570035381):0.01576185082,117:0.04304207183):0.00457931716):0.006802057007,150:0.02096726764):0.01573094606,115:0.04053433263):0.005240996795,(((((((((((((93:0.1316449962,97:0.1123667098):0.009853225808,((95:0.01638702821,96:0.02264055323):0.0204312003,94:0.04390458858):0.09980603957):0.00493646163,((80:1e-08,99:0.06635615259):0.01275277212,98:0.04353801527):0.03779382919):0.01126781484,92:0.1770259414):0.01191615317,(((90:0.07392110654,91:0.04910106072):0.02501368868,(88:0.04511754848,89:0.0530429143):0.07427836726):0.04956848602,((86:0.01725013571,87:0.01747110516):0.008515845014,((82:0.01395754065,83:0.0250175792):0.01031117707,(84:0.02608505249,85:0.01736618575):0.01158767455):0.01207097579):0.2221733187):0.0458297082):0.03670071709,81:0.1922257451):0.09706903038,79:0.227930633):0.007347171961,100:0.2680824354):0.01505860724,(((((((((((((12:0.8849893489,13:0.4866069803):0.4793253576,((7:1e-08,9:0.117824878):0.04756157285,8:0.007997566415):1.62786641):0.08336200834,2:1.767759973):0.01386456069,(10:0.01318741468,11:0.005380935611):1.101478181):0.1573231197,(35:0.06615659433,36:0.08158955148):0.4928614874):0.04158363725,(((((19:0.1460720776,20:0.1705346233):0.1560612173,((((15:0.02142729703,18:1e-08):0.01025970726,17:1e-08):0.01082175155,16:0.002817832815):0.01368770577,14:0.02705730438):0.3675153724):1.034618138,(5:0,6:-0):1.393873174):0.1659261095,34:0.785550709):0.06454071372,((((((32:0.009635859627,33:0.01238021507):0.08391138269,28:0.08469678197):0.0291287235,((30:0.006775723101,31:0.00776733807):0.004260506799,29:0.01213779254):0.06001465537):0.07782978773,(26:0.02828849499,27:0.01504602992):0.2691889926):0.04424858662,(24:0.01437640584,25:0.03600663984):0.447351104):0.1648134119,((22:0.002661768349,23:1e-08):0.1280563272,21:0.1588833309):0.3609521614):0.2502693341):0.07479614582):0.03523205949,37:0.5441810546):0.02217465567,((((((((((57:0.0421981346,59:0.1064770108):0.02014985579,58:0.06341789901):0.01556478224,(55:0.005502773281,56:0.004488937516):0.09606629943):0.007358869259,(((3:0.009736207908,53:0.009869958206):0.04086534733,4:0.01014342857):0.05305492523,54:0.08898008119):0.0131039174):0.06065933089,(((((46:1e-08,48:1.400084208e-16):0.0007892936524,47:0.002588538471):0.003950667083,45:0.0203486759):0.02509334465,((51:0.01797986484,52:0.009457070158):0.01120487576,44:0.01497117449):0.02573780697):0.02314268283,(49:0.02924231724,50:0.02660893029):0.02731759437):0.1277003466):0.04407215505,43:0.1775651411):0.04311423198,42:0.2250500422):0.1207045998,41:0.2607824449):0.02674770473,(39:0.1489100793,40:0.08160221076):0.3502486951):0.1504120024,38:0.6762494149):0.03938612847):0.0386660251,((60:0.1791708532,61:0.1750952946):0.1678885519,(((((74:0.02399886056,75:0.00838347135):0.009100459238,73:0.01601497246):0.00425175936,72:0.05275445116):0.05655436507,71:0.07362855363):0.02240912998,70:0.1554256003):0.2347250195):0.05623728207):0.008880162471,((((((((((((198:0.0685087197,199:1e-08):0.01210148299,200:0.006480903839):0.06689484617,(188:0.009295706719,189:0.01664207843):0.1052227354):0.02904593191,187:0.1255078244):0.007851176716,(((164:0.004392431943,165:0.002774145915):0.00573616242,163:0.02341420308):0.02044299682,162:0.02802480397):0.09505129992):0.0164441423,(((206:0,207:-0):0.01616663152,208:0.02709737269):0.07547684192,(((201:0.01729280388,204:1e-08):0.008156987713,203:1e-08):0.0007893774353,(202:0.01309137043,205:1e-08):0.006802501744):0.07679849814):0.02549187391):0.009677621194,((((192:0.003327424543,193:0.003991677394):0.02852059876,191:0.01906676912):0.02344365852,(((190:0.1601133156,195:1e-08):0.04715524739,196:1e-08):0.001990981862,197:1e-08):0.04249819352):0.007511867522,194:0.03264518891):0.08446540315):0.02160061224,(((((((((179:1e-08,180:0.01078251337):0.02726865402,(177:0.0003838197,178:0.003195774815):0.03198310239):0.03814492803,(((185:0.0392475166,186:0.02536514603):0.008109049156,181:0.03702515178):0.007272326943,((183:0.009162250712,184:0.001552624394):0.02544371248,182:0.02907508797):0.007937057224):0.05046693994):0.00302226128,(168:0.05563991367,169:0.05365392079):0.03410569453):0.008629484583,(170:0,171:-0):0.1082480643):0.004018860334,174:0.04659300791):0.005282813412,(175:0.01172197428,176:0.01308220788):0.0357496838):0.01701891589,(166:0.01195506528,167:0.005872558523):0.09549754125):0.0062910745,(172:1e-08,173:0.00161679091):0.08895760578):0.05822723724):0.1491611037,77:0.3128841308):0.002987796077,(((((155:0,156:-0):0.007693639755,157:0.01484682009):0.2897734135,(160:1e-08,161:0.3934588467):0.3702234092):0.05337687321,(((231:0.07793353851,233:0.08636653393):0.0255642671,232:0.06153234338):0.03048782714,230:0.1178301196):0.1799448156):0.0157346978,(228:0.06931896743,229:0.04936677491):0.2321134184):0.01695081568):0.02777696854,(((((((209:0,210:-0):0.1812977434,211:0.03401296784):0.03408144581,214:0.09413638189):0.005357459275,212:0.09390644911):0.007811074805,213:0.07701005147):0.09466986368,215:0.1657584943):0.0170122748,((((226:0.03163417877,227:0.01895802449):0.05371254059,225:0.0904946965):0.008306194995,((((219:0.03776237635,220:0.05962903298):0.005921427651,221:0.05561338563):0.007954646296,((222:0.05309941359,223:0.05132215103):0.01221971092,(216:0.04581882508,217:0.05381690521):0.02718946193):0.008433517954):0.01677016992,218:0.09103929218):0.0328790668):0.01012311245,224:0.112160411):0.05427162474):0.1256638321):0.04599320883,(158:0.2050343098,159:0.1575724681):0.1557823534):0.05220860643):0.109598611,69:0.4276608051):0.0562507982,103:0.2896860227):0.01846023788,(((((((64:0.0591765717,67:0.05359455871):0.008018697804,68:0.02429768497):0.004021479298,(65:0.03269922737,66:0.03276227947):0.0292218511):0.1877141907,63:0.2103767437):0.2273395136,78:0.23775397):0.04405818578,62:0.5247164878):0.07070227975,76:0.3268131671):0.02939012044):0.03149277947):0.0122072558,106:0.2323127172):0.006335258766,101:0.2601179825):0.03486773048,104:0.2295906884):0.1402871462,142:1e-08):0.01274621588):0.003015405901,((140:8.307843261e-05,141:0.003518571251):0.003901185842,139:0.003338745192):0.005748218429):0.003990134739,((((111:0.2752264403,113:0.07267582047):0.05236975217,146:1e-08):0.02605639579,114:0.1178812229):0.02976635197,102:1e-08):0.04308527665):0.004408507763):0.004043729366):0.001604278776,127:0.00287066773):0.0006370299689,126:0.003477323696):0.0001591422278,133:1e-08):4.353957648e-05,136:1e-08):2.062059722e-05):9.80313359e-06);
+END;
