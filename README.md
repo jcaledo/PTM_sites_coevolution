@@ -11,4 +11,4 @@ eIF2A_tr_NJ: Phylogenetic tree obtained using the Neigbour-Joining algorithm.
 
 eIF2A_tr_MP: Phylogenetic tree obtained using the maximum parsimony principle. 
 
-eIF2A_data.Rda: Raw data related to the residues found at the positions 218 and 222 (human numeration) on the protein eIF2A.
+eIF2A_data.Rda: Raw data related to the residues found at the positions 218 and 222 (human numeration) on the protein eIF2A from eukaryotic species.
