@@ -1,5 +1,7 @@
 # PTM_sites_coevolution
-Inferring Methionine Sulfoxidation and Serine Phosphorylation Crosstalk from Phylogenetic Analyses
+
+In this place you'll find files related to the article 
+"Inferring Methionine Sulfoxidation and Serine Phosphorylation Crosstalk from Phylogenetic Analyses"
 
 eIF2A_aln: Multiple sequence alignment of eukaryotic eIF2A.
 
